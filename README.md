@@ -1,4 +1,4 @@
-# display-files-from-the-database-with-PHP-and-AJAX
+# How to display files from the database with PHP and AJAX
 
 Note: The HTML file can only be displayed on the PHP server because it contains PHP and it's extension is .php
 How to display files 
